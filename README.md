@@ -1,6 +1,6 @@
 <h1>Ice Cream App </h1>
 
-<p>Ice Cream App Yaptık ve yaptığımız uygulamyı Unit Test ile Test Ettik</p>
+<p>React İle Ice Cream App Yaptık ve yaptığımız uygulamyı Unit Test ile Test Ettik</p>
 
 <h3>Kullanılan Kütüphaneler</h3 >
 
